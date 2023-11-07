@@ -75,7 +75,7 @@ h4 {
   width: 350px;
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 800px) {
   body {
     text-align: center;
   }
