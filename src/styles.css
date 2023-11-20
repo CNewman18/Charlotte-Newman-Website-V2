@@ -75,23 +75,26 @@ h4 {
   width: 350px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 768px) {
   body {
     text-align: center;
   }
-  img {
-    float: none;
-    display: block;
-    margin: 0 auto;
-  }
+
   .hero img {
-    float: none;
+    max-width: 300px;
     display: block;
     margin: 0 auto;
+    float: none;
   }
+
+  .homepage-content img {
+    width: 300px;
+  }
+
   .container-custom {
     margin-top: 50px;
   }
+
   .hero {
     padding: 20px;
   }
