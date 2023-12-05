@@ -107,6 +107,21 @@ h2 {
   margin-bottom: 30px;
 }
 
+.index-grid-container {
+  padding: 80px 80px;
+}
+
+.index-grid-container img {
+  max-width: 100%;
+  margin: 20px;
+}
+
+.index-grid-container h3 {
+  font-size: 28px;
+  text-align: left;
+  padding-left: 20px;
+}
+
 @media (max-width: 768px) {
   body {
     text-align: center;
