@@ -78,6 +78,7 @@ h4 {
 
 .about-hero-container img {
   height: 265px;
+  position: relative;
 }
 
 .about-hero-content {
