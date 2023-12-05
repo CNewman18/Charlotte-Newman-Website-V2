@@ -38,6 +38,24 @@ h4 {
   padding: 50px 0 100px 0;
 }
 
+.hero-container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.centered {
+  position: absolute;
+  top: 20%;
+  left: 20%;
+  transform: translate (-50%, -50%);
+}
+
+.hero-container h1,
+h2 {
+  font-size: 20px;
+}
+
 .hero p {
   color: #272142;
   font-family: Nunito;
