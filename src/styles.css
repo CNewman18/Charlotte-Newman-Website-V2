@@ -19,6 +19,7 @@ h1 {
   font-weight: 700;
   margin-top: 70px;
   margin-left: 10px;
+  text-align: center;
 }
 
 h3 {
@@ -34,6 +35,11 @@ h4 {
   font-size: 24px;
 }
 
+.contact-page-hero h1 {
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
 .hero {
   padding: 50px 0 100px 0;
 }
@@ -44,8 +50,8 @@ h4 {
   font-size: 18px;
   font-weight: 400;
   margin-top: 40px;
+  margin-left: 0;
   line-height: 30px;
-  margin-left: 10px;
 }
 
 .hero img {
@@ -65,6 +71,17 @@ h4 {
 .hero ul li {
   display: inline;
   margin: 0px 10px;
+}
+
+.hero h3,
+p {
+  text-align: left;
+}
+
+.hero h3 {
+  font-weight: 700px;
+  font-size: 18px;
+  color: #662eed;
 }
 
 .container-custom {
@@ -196,6 +213,11 @@ h2 {
 
   .hero {
     padding: 20px;
+  }
+
+  .hero h3,
+  p {
+    text-align: center;
   }
 
   .about-hero-container img {
