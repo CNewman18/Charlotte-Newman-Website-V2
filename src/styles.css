@@ -97,7 +97,7 @@ p {
 
 .about-hero-content {
   position: absolute;
-  top: 0px;
+  top: 40px;
   left: 0;
   width: 100%;
   height: 50px;
@@ -117,14 +117,12 @@ h2 {
 
 .about-hero-content h1 {
   font-size: 72px;
-  margin-top: 15;
 }
 
 .about-hero-content h2 {
   font-size: 24px;
   width: 560px;
   margin: 0 auto;
-  margin-bottom: 30px;
 }
 
 .index-grid-container {
