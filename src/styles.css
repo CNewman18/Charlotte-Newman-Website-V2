@@ -97,7 +97,7 @@ p {
 
 .about-hero-content {
   position: absolute;
-  top: 40px;
+  top: 50px;
   left: 0;
   width: 100%;
   height: 50px;
@@ -189,6 +189,7 @@ h2 {
 
 nav {
   padding-top: 20px;
+  padding-bottom: 10px;
 }
 
 nav img {
