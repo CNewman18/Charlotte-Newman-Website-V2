@@ -112,7 +112,7 @@ p {
 .about-hero-content h1,
 h2 {
   text-align: center;
-  color: black;
+  color: white;
 }
 
 .about-hero-content h1 {
@@ -224,10 +224,6 @@ nav a:hover {
 @media (max-width: 768px) {
   body {
     text-align: center;
-  }
-
-  h1 {
-    position: relative;
   }
 
   .hero img {
