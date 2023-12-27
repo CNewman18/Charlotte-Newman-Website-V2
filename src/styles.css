@@ -266,4 +266,9 @@ nav a:hover {
   .work-enquiry-wrapper h3 {
     text-align: center;
   }
+
+  .work-btn {
+    display: block;
+    margin: 0 auto;
+  }
 }
