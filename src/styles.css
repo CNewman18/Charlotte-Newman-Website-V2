@@ -204,7 +204,7 @@ h2 {
 .work-enquiry-wrapper {
   width: 80%;
   display: block;
-  margin: 100px auto;
+  margin: 10px auto 100px auto;
   background-color: #f9f7fe;
   padding: 20px;
   text-align: left;
