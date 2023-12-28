@@ -231,7 +231,8 @@ footer {
   margin-top: 70px;
 }
 
-footer i {
+footer a {
+  text-decoration: none;
   color: var(--branding-color);
   background-color: var(--secondary-color);
   padding: 14px 14px;
@@ -241,7 +242,7 @@ footer i {
   transition: 100ms ease-in-out;
 }
 
-footer i:hover,
+footer a:hover,
 .email-link:hover {
   color: white;
   background-color: var(--branding-color);
