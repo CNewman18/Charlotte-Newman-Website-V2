@@ -19,7 +19,7 @@ h2 {
 }
 
 h1 {
-  font-size: 64px;
+  font-size: 54px;
   font-weight: 700;
   margin-top: 70px;
   margin-left: 10px;
@@ -59,7 +59,7 @@ a:hover {
 }
 
 .hero h1 {
-  text-align: left;
+  text-align: center;
 }
 
 .hero {
