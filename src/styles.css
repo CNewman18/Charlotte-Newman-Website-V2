@@ -177,6 +177,7 @@ h2 {
 
 .work-grid-container {
   text-align: center;
+  margin-top: 20px;
 }
 
 .work-grid-container img {
@@ -307,6 +308,10 @@ footer a:hover,
 
 .active {
   color: var(--branding-color);
+}
+
+.container-work {
+  margin-top: 40px;
 }
 
 .container-work h1 {
