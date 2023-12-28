@@ -361,4 +361,10 @@ footer a:hover,
     display: block;
     margin: 0 auto;
   }
+
+  .index-grid-container img {
+    max-width: 100%;
+    transform: scale(1.4);
+    transition: 250ms ease-in-out;
+  }
 }
