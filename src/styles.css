@@ -12,7 +12,7 @@ body {
 }
 
 h2 {
-  color: #272142;
+  color: var(--primary-font);
   text-align: center;
   font-size: 72px;
   font-weight: 700;
@@ -76,7 +76,7 @@ a:hover {
 }
 
 .hero p {
-  color: #272142;
+  color: var(--primary-color);
   font-family: Nunito;
   font-size: 18px;
   font-weight: 400;
@@ -112,7 +112,7 @@ p {
 .hero h3 {
   font-weight: 700px;
   font-size: 18px;
-  color: #662eed;
+  color: -- var(--branding-color);
 }
 
 .container-custom {
@@ -224,10 +224,15 @@ h2 {
   width: 200px;
   padding: 20px;
   border-radius: 4px;
-  background-color: #6c63ff;
+  background-color: var(--branding-color);
   border: none;
   color: white;
   margin-top: 30px;
+  transition: 100ms ease-in-out;
+}
+
+.work-btn:hover {
+  background-color: var(--primary-color);
 }
 
 img {
