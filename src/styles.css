@@ -262,6 +262,10 @@ footer i:hover,
   margin-top: 30px;
 }
 
+.active {
+  color: var(--branding-color);
+}
+
 @media (max-width: 768px) {
   body {
     text-align: center;
