@@ -154,8 +154,14 @@ h2 {
 }
 
 .index-grid-container img {
-  max-width: 100%;
+  max-width: 99%;
   margin: 20px;
+  transition: 100ms ease-in-out;
+}
+
+.index-grid-container img:hover {
+  max-width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .index-grid-container h3 {
