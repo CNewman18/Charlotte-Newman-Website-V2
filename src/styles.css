@@ -75,7 +75,7 @@ a:hover {
   font-family: Nunito;
   font-size: 18px;
   font-weight: 400;
-  margin-top: 40px;
+  margin-top: 10px;
   margin-left: 0;
   line-height: 30px;
 }
@@ -318,6 +318,10 @@ footer a:hover,
 @media (max-width: 768px) {
   body {
     text-align: center;
+  }
+
+  h4 {
+    max-width: 400px;
   }
 
   .hero h1 {
