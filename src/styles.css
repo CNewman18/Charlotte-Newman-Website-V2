@@ -154,7 +154,7 @@ h2 {
   margin: 0 auto;
 }
 .index-grid-container {
-  padding: 80px 80px;
+  padding: 80px 80px 0px 80px;
 }
 
 .index-grid-container img {
@@ -324,6 +324,12 @@ footer a:hover,
 
 .contact-page-hero h1 {
   text-align: center;
+}
+
+.project-link {
+  font-size: 30px;
+  display: block;
+  margin-bottom: 80px;
 }
 
 @media (max-width: 768px) {
