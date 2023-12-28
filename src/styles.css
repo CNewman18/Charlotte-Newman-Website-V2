@@ -291,6 +291,10 @@ footer a:hover,
   text-align: center;
 }
 
+.contact-page-hero h1 {
+  text-align: center;
+}
+
 @media (max-width: 768px) {
   body {
     text-align: center;
