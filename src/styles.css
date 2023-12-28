@@ -374,4 +374,8 @@ footer a:hover,
     transform: scale(1.4);
     transition: 250ms ease-in-out;
   }
+
+  .index-grid-container h3 {
+    display: none;
+  }
 }
