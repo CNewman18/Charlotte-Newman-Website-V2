@@ -347,35 +347,31 @@ footer a:hover,
     max-width: 400px;
   }
 
-  .hero h1 {
+ .generic-hero-container h1 {
     text-align: center;
   }
 
-  .hero img {
+ .generic-hero-container img {
     max-width: 300px;
     display: block;
     margin: 0 auto;
     float: none;
   }
 
-  .homepage-content img {
-    width: 300px;
-  }
-
   .image-text-container {
     margin-top: 50px;
   }
 
-  .hero {
+  .generic-hero-container {
     padding: 20px;
   }
 
-  .hero h3,
+  .generic-hero-container h3,
   p {
     text-align: center;
   }
 
-  .hero ul {
+  .generic-hero-container ul {
     text-align: center;
   }
 
