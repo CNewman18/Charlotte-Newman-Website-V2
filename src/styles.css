@@ -57,7 +57,7 @@ a:hover {
   color: var(--branding-color);
 }
 
-.contact-page-hero h1 {
+.contact-hero-container h1 {
   margin-top: 0;
   margin-bottom: 50px;
 }
@@ -328,7 +328,7 @@ footer a:hover,
   text-align: center;
 }
 
-.contact-page-hero h1 {
+.contact-hero-container h1 {
   text-align: center;
 }
 
@@ -379,7 +379,7 @@ footer a:hover,
     text-align: center;
   }
 
-.index-hero-container img {
+  .index-hero-container img {
     display: none;
   }
 
