@@ -312,11 +312,11 @@ footer a:hover,
   color: var(--branding-color);
 }
 
-.container-work {
+.work-hero-container {
   margin-top: 40px;
 }
 
-.container-work h1 {
+.work-hero-container h1 {
   text-align: left;
 }
 
