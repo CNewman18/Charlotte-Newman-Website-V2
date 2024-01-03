@@ -215,7 +215,7 @@ h2 {
   margin-top: 0;
 }
 
-.work-btn {
+button {
   width: 200px;
   padding: 20px;
   border-radius: 4px;
@@ -227,7 +227,7 @@ h2 {
   font-weight: 600;
 }
 
-.work-btn:hover {
+button:hover {
   background-color: var(--branding-color);
   color: white;
 }
@@ -383,7 +383,7 @@ footer a:hover,
     text-align: center;
   }
 
-  .work-btn {
+  button {
     display: block;
     margin: 0 auto;
   }
