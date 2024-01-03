@@ -119,7 +119,7 @@ p {
   max-width: 960px;
 }
 
-.about-hero-content {
+.index-hero-content {
   position: absolute;
   top: 50px;
   left: 0;
@@ -133,17 +133,17 @@ p {
   position: relative;
 }
 
-.about-hero-content h1,
+.index-hero-content h1,
 h2 {
   text-align: center;
   color: white;
 }
 
-.about-hero-content h1 {
+.index-hero-content h1 {
   font-size: 72px;
 }
 
-.about-hero-content h2 {
+.index-hero-content h2 {
   font-size: 24px;
   width: 560px;
   margin: 0 auto;
