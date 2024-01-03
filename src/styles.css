@@ -119,10 +119,6 @@ p {
   max-width: 960px;
 }
 
-.homepage-content img {
-  width: 350px;
-}
-
 .about-hero-content {
   position: absolute;
   top: 50px;
@@ -347,11 +343,11 @@ footer a:hover,
     max-width: 400px;
   }
 
- .generic-hero-container h1 {
+  .generic-hero-container h1 {
     text-align: center;
   }
 
- .generic-hero-container img {
+  .generic-hero-container img {
     max-width: 300px;
     display: block;
     margin: 0 auto;
