@@ -62,19 +62,19 @@ a:hover {
   margin-bottom: 50px;
 }
 
-.hero h1 {
+.generic-hero-container h1 {
   text-align: center;
 }
 
-.hero {
+.generic-hero-container {
   padding: 50px 0 100px 0;
 }
 
-.hero ul {
+.generic-hero-container ul {
   text-align: left;
 }
 
-.hero p {
+.generic-hero-container p {
   color: var(--primary-color);
   font-family: Nunito;
   font-size: 18px;
@@ -84,13 +84,13 @@ a:hover {
   line-height: 30px;
 }
 
-.hero img {
+.generic-hero-container img {
   max-width: 460px;
   display: block;
   float: right;
 }
 
-.hero ul {
+.generic-hero-container ul {
   list-style: none;
   padding: 0;
   font-size: 18px;
@@ -98,23 +98,23 @@ a:hover {
   margin-top: 60px;
 }
 
-.hero ul li {
+.generic-hero-container ul li {
   display: inline;
   margin: 0px 10px;
 }
 
-.hero h3,
+.generic-hero-container h3,
 p {
   text-align: left;
 }
 
-.hero h3 {
+.generic-hero-container h3 {
   font-weight: 700px;
   font-size: 18px;
   color: -- var(--branding-color);
 }
 
-.container-custom {
+.image-text-container {
   margin-top: 60px;
   max-width: 960px;
 }
@@ -240,7 +240,7 @@ img {
   border-radius: 8px;
 }
 
-.container-custom img {
+.image-text-container img {
   max-height: 500px;
 }
 
@@ -362,7 +362,7 @@ footer a:hover,
     width: 300px;
   }
 
-  .container-custom {
+  .image-text-container {
     margin-top: 50px;
   }
 
