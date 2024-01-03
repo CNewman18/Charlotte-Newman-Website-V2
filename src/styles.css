@@ -403,6 +403,11 @@ footer a:hover,
     transition: 250ms ease-in-out;
   }
 
+  .index-grid-container img:hover {
+    transform: scale(1.5);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+
   .index-grid-container h3 {
     display: none;
   }
