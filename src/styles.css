@@ -197,7 +197,7 @@ h2 {
   font-size: 14px;
 }
 
-.work-enquiry-wrapper {
+.work-enquiry-container {
   width: 80%;
   display: block;
   margin: 10px auto 100px auto;
@@ -206,12 +206,12 @@ h2 {
   text-align: left;
 }
 
-.work-enquiry-wrapper h3 {
+.work-enquiry-container h3 {
   margin-bottom: 15px;
   text-align: left;
 }
 
-.work-enquiry-wrapper p {
+.work-enquiry-container p {
   margin-top: 0;
 }
 
