@@ -10,6 +10,10 @@ body {
   margin-bottom: 30px;
   text-align: center;
 }
+h1 {
+  font-size: 54px;
+  font-weight: 700;
+}
 
 h2 {
   color: var(--primary-font);
@@ -18,12 +22,7 @@ h2 {
   font-weight: 700;
 }
 
-h1 {
-  font-size: 54px;
-  font-weight: 700;
-}
-
-.about-hero-container h1 {
+.index-hero-container h1 {
   font-size: 54px;
   font-weight: 700;
   margin-top: 60px;
@@ -133,7 +132,7 @@ p {
   margin: 0 auto;
 }
 
-.about-hero-container img {
+.index-hero-container img {
   height: 265px;
   position: relative;
 }
@@ -380,7 +379,7 @@ footer a:hover,
     text-align: center;
   }
 
-  .about-hero-container img {
+.index-hero-container img {
     display: none;
   }
 
